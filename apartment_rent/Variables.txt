@@ -1,0 +1,11 @@
+Variable Name	Role	Type	Description	Units	Missing Values
+id	ID	Integer			no
+category	Feature	Categorical			no
+title	Feature	Categorical			no
+body	Feature	Categorical			no
+amenities	Feature	Categorical			no
+bathrooms	Feature	Integer			no
+bedrooms	Feature	Categorical			no
+currency	Feature	Categorical			no
+fee	Feature	Categorical			no
+has_photo	Feature	Categorical			no
